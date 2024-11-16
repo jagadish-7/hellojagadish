@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/hellojagadish/static/css/main.07185df4.css",
-    "main.js": "/hellojagadish/static/js/main.ddb6fb2f.js",
+    "main.css": "/hellojagadish/static/css/main.c9775683.css",
+    "main.js": "/hellojagadish/static/js/main.c183cb55.js",
     "static/js/787.d393e438.chunk.js": "/hellojagadish/static/js/787.d393e438.chunk.js",
     "static/media/secondDance.jpg": "/hellojagadish/static/media/secondDance.553840977e378855a2fc.jpg",
     "static/media/firstCoding.jpg": "/hellojagadish/static/media/firstCoding.b58d66d6b54448f2ace1.jpg",
@@ -9,23 +9,25 @@
     "static/media/react.jpg": "/hellojagadish/static/media/react.a222b1afbf676654bda8.jpg",
     "static/media/codesoft.jpg": "/hellojagadish/static/media/codesoft.2f0d20682b3be12221a7.jpg",
     "static/media/cppBasics.jpg": "/hellojagadish/static/media/cppBasics.271cbe544795386c3cc5.jpg",
+    "static/media/aws-certificate.jpg": "/hellojagadish/static/media/aws-certificate.a10fd2ca86921c475b4e.jpg",
     "static/media/openWaver.jpg": "/hellojagadish/static/media/openWaver.f82da447ea31162cda29.jpg",
     "static/media/secondCoding.jpg": "/hellojagadish/static/media/secondCoding.1bb6291b39d8329a8937.jpg",
     "static/media/firstDance.jpg": "/hellojagadish/static/media/firstDance.507b674a7d7bbc31e24c.jpg",
     "static/media/secondDance1.jpg": "/hellojagadish/static/media/secondDance1.a5e729dc0a066540769b.jpg",
-    "static/media/JagadishMadavalkarResume.pdf": "/hellojagadish/static/media/JagadishMadavalkarResume.6608865c32f590135031.pdf",
+    "static/media/JagadishMadavalkarResume.pdf": "/hellojagadish/static/media/JagadishMadavalkarResume.d8495e2afaad79b01f14.pdf",
     "static/media/PhotoFile.jpeg": "/hellojagadish/static/media/PhotoFile.a739a26ef7d057f1e1cf.jpeg",
+    "static/media/aws.png": "/hellojagadish/static/media/aws.850296a094250f4a242e.png",
     "static/media/perfect.JPG": "/hellojagadish/static/media/perfect.64794e941b19aac4b10c.JPG",
     "static/media/momentMakers.JPG": "/hellojagadish/static/media/momentMakers.a743ea8d2f1caaba30d6.JPG",
     "static/media/Thunderclient.png": "/hellojagadish/static/media/Thunderclient.e7f89c51cacb4fb9c726.png",
     "static/media/WebD.svg": "/hellojagadish/static/media/WebD.f435687778cd4a5a4d23e758e7d9458e.svg",
     "index.html": "/hellojagadish/index.html",
-    "main.07185df4.css.map": "/hellojagadish/static/css/main.07185df4.css.map",
-    "main.ddb6fb2f.js.map": "/hellojagadish/static/js/main.ddb6fb2f.js.map",
+    "main.c9775683.css.map": "/hellojagadish/static/css/main.c9775683.css.map",
+    "main.c183cb55.js.map": "/hellojagadish/static/js/main.c183cb55.js.map",
     "787.d393e438.chunk.js.map": "/hellojagadish/static/js/787.d393e438.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07185df4.css",
-    "static/js/main.ddb6fb2f.js"
+    "static/css/main.c9775683.css",
+    "static/js/main.c183cb55.js"
   ]
 }
